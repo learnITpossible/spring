@@ -24,9 +24,9 @@ spring:
         username: root
     mail:
         default-encoding: UTF-8
-        host: smtp.exmail.qq.com
-        password: IDer23$3akS
+        host:
+        password:
         protocol: smtp
-        username: dapan_statistics@weyao.com
+        username:
         admin: 490960362@qq.com
 debug: true
