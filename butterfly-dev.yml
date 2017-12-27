@@ -28,5 +28,5 @@ spring:
         password:
         protocol: smtp
         username:
-        admin: 490960362@qq.com
+        admin: jo490960362@126.com
 debug: true
