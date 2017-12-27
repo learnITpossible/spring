@@ -28,5 +28,5 @@ spring:
         password: IDer23$3akS
         protocol: smtp
         username: dapan_statistics@weyao.com
-        admin: 490960362@qq.com
+        admin: jo490960362@126.com
 debug: true
